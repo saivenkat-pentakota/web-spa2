@@ -11,6 +11,7 @@ function AboutTravel() {
         <br /> mangna aliqua. Ut enim ad minim veniam, quis nostrud exercitaton
         uliamco laboris nisi ut aliquip ex ea com-
         <br /> modo consequat.
+        
       </p>
       <div className="d-flex flex-row justify-content-center">
         <div className="p-4">
