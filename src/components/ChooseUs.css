@@ -1,0 +1,23 @@
+.chooseus{
+    font-weight: 700;
+    background-image: url("../images/contactus-backgroundimage.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+input{
+    margin: 10px;
+    background: transparent;
+    width:450px;
+    height:50px;
+}
+
+::placeholder{
+    color:#ffffff;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.chooseus-1{
+    padding: 40px;
+}

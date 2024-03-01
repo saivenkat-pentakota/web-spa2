@@ -3,6 +3,7 @@ import NavBar from '../src/components/NavBar';
 import HomePage from './components/HomePage';
 import AboutTravel from './components/AboutTravel';
 import TravelPlaces from './components/TravelPlaces';
+import ChooseUs from './components/ChooseUs';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <HomePage/>
       <AboutTravel/>
       <TravelPlaces/>
+      <ChooseUs/>
     </div>
   );
 }
